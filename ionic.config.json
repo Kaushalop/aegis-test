@@ -1,0 +1,8 @@
+{
+  "name": "Aegis Test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "70a7e593"
+}
